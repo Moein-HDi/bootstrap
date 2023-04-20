@@ -6,3 +6,6 @@
 
 bootstrap.css linguist-vendored=false
 bootstrap.js linguist-vendored=false
+*.js linguist-detectable=false
+*.css linguist-detectable=false
+*.HTML linguist-detectable=false
